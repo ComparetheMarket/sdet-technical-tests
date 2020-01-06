@@ -37,5 +37,5 @@ The ease with which the interviewers can get your tests running is an important 
 Create a public repository on github with your code and send us the link. 
 
 ### What happens next? 
-Our team will review your submission. If your submission meets the needs of our current available positions, you will be invited for a final face-to-face interview. 
-At his final stage, the interviewers will have a friendly chat in order to understand how you approached the problem. You will also have the chance to learn a bit more about how we work and how we can help you develop your career.
+Our team will review your submission. If it meets the needs of our current available positions, you will be invited for a final face-to-face interview. 
+At this stage, we will have a friendly chat in order to understand how you approached the problem. You will also have the chance to learn a bit more about CTM and how we can help you develop your career.
