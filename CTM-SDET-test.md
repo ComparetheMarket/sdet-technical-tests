@@ -8,7 +8,7 @@ We would like you to take a look at the energy comparison journey. You can find 
 
 Please ensure you use the above URL with the AFFCLIE code so that it doesn't affect the energy team's metrics!
 
-Using a test framework of your choice, in a language of your choice, write at most 3 tests that allows you to explore the functionality. Your tests should only proceed as far as the price results page, for this exercise you don't need to test the 'Switch Now' feature.
+Using a test framework of your choice, in a language of your choice, write at most 3 tests, covering some of the page functionality. Your tests should only proceed as far as the price results page, for this exercise you don't need to test the 'Switch Now' feature.
 
 You can use the following information to populate the postcode field
   - PE2 6YS
