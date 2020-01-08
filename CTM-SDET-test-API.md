@@ -28,13 +28,13 @@ As a client of this API, I want to be able to:
 * Search for users by email
 
 1. Please write automated tests that cover some of the mentioned functionality. They should serve as an example of the kind of test you would find useful given the above context.
-1. If time permits, please add tests for some edge cases or negative scenarios that you can think of.
+2. If time permits, please add tests for some edge cases or negative scenarios that you can think of.
 
 ## Languages
 
 You may use any programming language of your choice. We would prefer that you use a language that will help you show off your skills in building test automation frameworks, rather than one that you are unfamiliar with.
 
-The main languages that we use at CTM for test automation are Javascript, C# and Ruby.
+Most of the existing test frameworks at CTM are using Javascript, but we also have some legacy ones written in Ruby and C#.
 
 ## Documentation
 
