@@ -28,7 +28,7 @@ As a client of this API, I want to be able to:
 * Search for users by email
 
 1. Please write automated tests that cover some of the mentioned functionality. They should serve as an example of the kind of test you would find useful given the above context.
-2. If time permits, please add tests for some edge cases or negative scenarios that you can think of.
+2. If time permits, add a few tests covering some of the edge cases, or negative scenarios that you can think of.
 
 ## Languages
 
@@ -42,4 +42,4 @@ You should provide instructions on how to run your tests, and note any prerequis
 
 ## Submission
 
-Create a public repository on GitHub with your code and send us the link.
+Create a public repository on GitHub with your code and send us the link. Alternatively, create a git repository locally and send it to us compressed in a ZIP file.
